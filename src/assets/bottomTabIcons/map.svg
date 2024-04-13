@@ -1,0 +1,21 @@
+<svg width="32.000000" height="40.000000" viewBox="0 0 32 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip23_9215">
+			<rect id="maps" width="32.000000" height="32.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_23_9216_0" x1="14.000000" y1="36.000000" x2="18.000000" y2="40.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#86D694"/>
+			<stop offset="1.000000" stop-color="#2E7C07"/>
+		</linearGradient>
+	</defs>
+	<rect id="maps" width="32.000000" height="32.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip23_9215)">
+		<path id="primary" d="M12 24L4 26.66L4 8L12 5.33L20 8L28 5.33L28 24L20 26.66L12 24ZM12 24L12 5.33M20 8L20 26.66M20 8L12 5.33M12 24L20 26.66" stroke="#F4F3F7" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+	</g>
+	<g opacity="0.000000">
+		<circle id="circle" cx="16.000000" cy="38.000000" r="2.000000" fill="url(#paint_linear_23_9216_0)" fill-opacity="1.000000"/>
+	</g>
+</svg>

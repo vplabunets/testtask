@@ -1,0 +1,21 @@
+<svg width="32.000000" height="40.000000" viewBox="0 0 32 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip23_9221">
+			<rect id="file-6" width="32.000000" height="32.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_23_9222_0" x1="14.000000" y1="36.000000" x2="18.000000" y2="40.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#86D694"/>
+			<stop offset="1.000000" stop-color="#2E7C07"/>
+		</linearGradient>
+	</defs>
+	<rect id="file-6" width="32.000000" height="32.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip23_9221)">
+		<path id="primary" d="M25.33 26.66C25.33 27.02 25.19 27.35 24.94 27.6C24.69 27.85 24.35 28 24 28L8 28C7.64 28 7.3 27.85 7.05 27.6C6.8 27.35 6.66 27.02 6.66 26.66L6.66 5.33C6.66 4.97 6.8 4.64 7.05 4.39C7.3 4.14 7.64 4 8 4L22.66 4L25.33 6.66L25.33 26.66ZM22.66 4L22.66 6.66L25.33 6.66M25.33 6.66L22.66 4M12 22.66L20 22.66L12 22.66ZM20 17.33L12 17.33L20 17.33ZM12 12L20 12" stroke="#F4F3F7" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+	<g opacity="0.000000">
+		<circle id="circle" cx="16.000000" cy="38.000000" r="2.000000" fill="url(#paint_linear_23_9222_0)" fill-opacity="1.000000"/>
+	</g>
+</svg>

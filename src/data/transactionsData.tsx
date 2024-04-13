@@ -1,0 +1,58 @@
+import {TransactionsData} from '../types';
+
+export const transactionsData: TransactionsData[] = [
+  {
+    id: 1,
+    date: '23.07.2023',
+    name: 'Brenda Harper',
+    value: 9.99,
+    type: 'outcome',
+    currency: 'USD',
+    image: 'brendaHarper.png',
+  },
+  {
+    id: 2,
+    date: '19.07.2023',
+    name: 'Dylan Bonner',
+    value: 9.99,
+    type: 'outcome',
+    currency: 'USD',
+    image: 'dylanBonner.png',
+  },
+  {
+    id: 3,
+    date: '19.07.2023',
+    name: 'Lola Thornton',
+    value: 13.99,
+    type: 'outcome',
+    currency: 'USD',
+    image: 'lolaThornton.png',
+  },
+  {
+    id: 4,
+    date: '19.07.2023',
+    name: 'Alice Wallace',
+    value: 8.99,
+    type: 'outcome',
+    currency: 'USD',
+    image: 'aliceWallace.png',
+  },
+  {
+    id: 5,
+    date: '16.07.2023',
+    name: 'Liam Holt',
+    value: 5.99,
+    type: 'outcome',
+    currency: 'USD',
+    image: 'liamHolt.png',
+  },
+  {
+    id: 6,
+    date: '16.07.2023',
+    name: 'Gary Stuart',
+    value: 21.99,
+    type: 'outcome',
+    currency: 'USD',
+    image: 'garyStuart.png',
+  },
+];
